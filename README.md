@@ -33,9 +33,7 @@ Constantly pushing myself to overcome frustration with performance and design fl
 
 <div align="Center">
 
-| My Stats | Ultimate Streak |
-| ------------- | ------------- |
-| ![My Stats](https://github-readme-stats.vercel.app/api?username=Xander44-4&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![My Streak](https://github-readme-streak-stats.herokuapp.com/?user=Xander44-4&theme=onedark&hide_border=true) |
+
 
 | Top Languages |
 | ----------|
