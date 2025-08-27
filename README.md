@@ -1,62 +1,57 @@
-### Hi there 👋 I'm Xander Cruz!
-**Software Developer Student**
 
-🎓 *Estudiante de Desarrollo de Software en el Instituto Tecnológico de Las Américas (ITLA)*  
-💡 *Apasionado por la tecnología, el aprendizaje continuo y los retos que me permiten crecer profesionalmente*  
-🤝 *Trabajo en equipo, me interesa explorar distintas áreas del desarrollo, desde el diseño de interfaces hasta la lógica del servidor*  
+<h1 align="center"><b>Hi , I'm Xander Cruz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+Full-Stack Development Student | Passionate about creating efficient, scalable, and well-designed web & mobile applications.
+Constantly pushing myself to overcome frustration with performance and design flaws by learning, building, and improving every day.
 
----
 
-### Front-end:
-<p>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" />
-  </a>
-</p>
+<div align="Center">
+<h1>Skills</h1>
+</div>
 
-### Back-end:
-<p>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-</p>
+<div align="Center">
 
-### Database / Base de datos:
-<p>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-</p>
+| FrontEnd | BackEnd |
+| ------------- | ------------- |
+| <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react"/> | <img src="https://skillicons.dev/icons?i=py,dotnet,cs"/> |
 
-### Learning / Aprendiendo:
-<p align="left">
-  <a href="https://flutter.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-</p>
+</div>
 
-<!-- Add more badges as needed -->
+<br>
+<br>
+<br>
+
+<div align="Center">
+<h1>Databases & Tools </h1>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,docker,git,github"/>
+
+</div>
+
+<br>
+<br>
+
+
+<div align="Center">
+
+| CtorW's Stats | Ultimate Streak |
+| ------------- | ------------- |
+| ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=CtorW&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) 
+
+| Most Lang |
+| ----------|
+| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
+
+
+</div>
+
+<br>
+<br>
+
+<div align="Center">
+
+|‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
+| ----------|
+| <a href="mailto:xandercruz2k@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://www.linkedin.com/in/xander-ruddy-cruz-de-la-rosa-a621012bb/"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a> ‎ ‎ ‎ ‎  <a href="https://x.com/REDNAX444"> <img src="https://skillicons.dev/icons?i=twitter"/> </a> |
+
+</div>
+
