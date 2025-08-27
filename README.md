@@ -33,13 +33,13 @@ Constantly pushing myself to overcome frustration with performance and design fl
 
 <div align="Center">
 
-| CtorW's Stats | Ultimate Streak |
+| My Stats | Ultimate Streak |
 | ------------- | ------------- |
-| ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=CtorW&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) 
+| ![My Stats](https://github-readme-stats.vercel.app/api?username=Xander44-4&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![My Streak](https://github-readme-streak-stats.herokuapp.com/?user=Xander44-4&theme=onedark&hide_border=true) |
 
-| Most Lang |
+| Top Languages |
 | ----------|
-| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xander44-4&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
 
 
 </div>
